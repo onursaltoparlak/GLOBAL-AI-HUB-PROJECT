@@ -1,0 +1,15 @@
+PIZZAWORLD MENU
+
+Pizza Tabani 
+A1: Klasik  (ICINDEKILER: SUCUK,SALAM,BIBER,KASAR)
+A2: Margarita  (ICINDEKILER: MOZARELLA, DOMATES,FESLEGEN)
+A3: Turk Pizza  (ICINDEKILER: KIYMA,SOGAN,SARIMSAK,KASAR)
+A4: Sade Pizza  (ICINDEKILER: SALAM, SUCUK)
+
+Ekstra Malzemeler
+X1: Zeytin
+X2: Mantar
+X3: Peynir
+X4: Et
+X5: Sogan
+X6: Misir
